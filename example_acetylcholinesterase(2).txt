@@ -1,0 +1,4 @@
+CCCCCCSc1nc(-c2ccc(C)cc2)nn1C(=O)N(C)c1ccccc1 CHEMBL336625
+CSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N1CCOCC1 CHEMBL130645
+COc1nn(-c2ccc(NC(=O)c3ccc(C(C)(C)C)cc3)cc2)c(=O)o1 CHEMBL339297
+CN(C)C(=O)Oc1cccc([N+](C)(C)C)c1.[Br-] CHEMBL54126
